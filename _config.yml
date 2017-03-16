@@ -10,9 +10,7 @@ title: Helen Dockrell
 email: dock0009@flinders.edu.au
 description: > # this means to ignore newlines until "baseurl:"
  Hi! I'm a computational biologist working on my PhD thesis at Flinders University, South Australia. This site is something I'm developing in my bits and pieces of spare time, so bear with me. On it, I'll be writing blog posts, trying out data science techniques and putting together guides for all sorts of coding-based projects.
-
 In the mean time, you can find me on LinkedIn and ResearchGate (no papers yet, but a few in the pipelines at once, so it'll be spectacular in a couple of months!)
-
 Feel free to get in contact if you want to talk about data science events (intro to R or Processing or data structures), or if you're interested on collaborating on computational biology projects.
 
 baseurl: "" # the subpath of your site, e.g. /blog
